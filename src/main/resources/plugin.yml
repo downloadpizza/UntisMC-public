@@ -1,0 +1,10 @@
+  name: UntisMC
+  main: net.downloadpizza.untismc.UntisMC
+  version: 0.1.0
+  api-version: '1.14'
+
+  commands:
+    drawtimetable:
+      aliases: draw
+      description: Beans
+      usage: drawtimetable x y z [date] [direction]
